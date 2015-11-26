@@ -1,4 +1,4 @@
-/
+
 package vink2gen;
 
 import java.util.ArrayList;
