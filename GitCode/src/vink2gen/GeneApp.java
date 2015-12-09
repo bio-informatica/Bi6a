@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package vink2gen;
 
 import java.util.ArrayList;
@@ -10,7 +6,9 @@ import java.util.Collections;
 
 /**
  *
- * @author bgnmh
+ * @author Martijn van der Bruggen
+ * @copyright Hogeschool van Arnhem en Nijmegen
+ * 
  */
 public class GeneApp {
     
